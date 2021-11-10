@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">chatApp</string>
+    <string name="todo">TODO</string>
+    <string name="chat_app">Chat App</string>
+
+
+    <string name="type_your_number">type your number</string>
+    <string name="Continue">CONTINUE</string>
+    <string name="verify">Verify</string>
+
+    <string name="textview">TextView</string>
+</resources>
