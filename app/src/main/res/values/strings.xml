@@ -6,7 +6,11 @@
 
     <string name="type_your_number">type your number</string>
     <string name="Continue">CONTINUE</string>
-    <string name="verify">Verify</string>
+    <string name="verify">Verify OTP</string>
 
     <string name="textview">TextView</string>
+
+    <string name="did_not_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend">RESEND OTP</string>
+    <string name="_91">+91 -</string>
 </resources>
