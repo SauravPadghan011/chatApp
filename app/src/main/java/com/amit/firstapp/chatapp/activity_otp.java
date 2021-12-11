@@ -29,7 +29,7 @@ public class activity_otp extends AppCompatActivity {
     }
 
     private void setupOTPInputs() {
-        // Moving to the next block after entering.
+        // Moving to the next block after user input.
         inputOTP1.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -49,7 +49,7 @@ public class activity_otp extends AppCompatActivity {
             }
         });
 
-        // Moving to the next block after entering.
+        // Moving to the next block after user input.
         inputOTP2.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -69,7 +69,7 @@ public class activity_otp extends AppCompatActivity {
             }
         });
 
-        // Moving to the next block after entering.
+        // Moving to the next block after user input.
         inputOTP3.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -89,7 +89,7 @@ public class activity_otp extends AppCompatActivity {
             }
         });
 
-        // Moving to the next block after entering.
+        // Moving to the next block after user input.
         inputOTP4.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -109,7 +109,7 @@ public class activity_otp extends AppCompatActivity {
             }
         });
 
-        // Moving to the next block after entering.
+        // Moving to the next block after user input.
         inputOTP5.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
